@@ -19,6 +19,16 @@
 - Versioning Control is awesome, and I like the idea to know how it works. My future will be with a team, which uses Versioning Control (I hope...).
 - Work in progress...
 
-### Technologies
+### Professional competences
 
-Work in progress...
+![software design](https://img.shields.io/badge/-software%20design-9cf?style=for-the-badge)
+![database design](https://img.shields.io/badge/-database%20design-9cf?style=for-the-badge)
+![backend](https://img.shields.io/badge/-backend-9cf?style=for-the-badge)
+![microcontrollers](https://img.shields.io/badge/-microcontrollers-9cf?style=for-the-badge)
+
+### Main technologies
+
+![angular](https://img.shields.io/badge/-angular-9cf?style=for-the-badge&logo=angular)
+![django](https://img.shields.io/badge/-django-9cf?style=for-the-badge&logo=django)
+![python](https://img.shields.io/badge/-python-9cf?style=for-the-badge&logo=python)
+![bash](https://img.shields.io/badge/-bash-9cf?style=for-the-badge&logo=GNU%20bash)
