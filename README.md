@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-- 👋 Name: Marte Valerio
-- :book: Profession: Student
-- :round_pushpin: Where: Roma Tre University
-- :mortar_board: First level degree: 2018
-- :mortar_board: Second level degree: 80% loading... 
+👋 Name: Marte Valerio
+
+:book: Profession: Student
+
+:round_pushpin: Where: Roma Tre University
+
+:mortar_board: First level degree: 2018
+
+:mortar_board: Second level degree: 80% loading... 
 
 ### Why am I on GitHub
 
