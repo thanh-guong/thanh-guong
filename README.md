@@ -23,6 +23,7 @@
 
 ![software design](https://img.shields.io/badge/-software%20design-9cf?style=for-the-badge)
 ![database design](https://img.shields.io/badge/-database%20design-9cf?style=for-the-badge)
+![software automation](https://img.shields.io/badge/-software%20automation-9cf?style=for-the-badge)
 ![backend](https://img.shields.io/badge/-backend-9cf?style=for-the-badge)
 ![microcontrollers](https://img.shields.io/badge/-microcontrollers-9cf?style=for-the-badge)
 
@@ -32,3 +33,4 @@
 ![django](https://img.shields.io/badge/-django-9cf?style=for-the-badge&logo=django)
 ![python](https://img.shields.io/badge/-python-9cf?style=for-the-badge&logo=python)
 ![bash](https://img.shields.io/badge/-bash-9cf?style=for-the-badge&logo=GNU%20bash)
+![docker](https://img.shields.io/badge/-docker-9cf?style=for-the-badge&logo=docker)
