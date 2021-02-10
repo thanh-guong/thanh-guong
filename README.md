@@ -17,7 +17,6 @@
 - I want to show what I did in my University period.
 - Automated builds with Docker Hub and GitHub are awesome.
 - Versioning Control is awesome, and I like the idea of knowing how it works. My future will be with a team, which uses Versioning Control (I hope...).
-- Work in progress...
 
 ### Professional competences
 
