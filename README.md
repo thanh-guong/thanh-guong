@@ -10,14 +10,6 @@
 
 :mortar_board: Second level degree: 80% loading... 
 
-### Why am I on GitHub
-
-- I find useful to store my code in repositories, to share my projects between my devices.
-- I really like the idea to secure my code in case one of my devices breaks up.
-- I want to show what I did in my University period.
-- Automated builds with Docker Hub and GitHub are awesome.
-- Versioning Control is awesome, and I like the idea of knowing how it works. My future will be with a team, which uses Versioning Control (I hope...).
-
 ### Professional competences
 
 [![software design](https://img.shields.io/badge/-software%20design-9cf?style=for-the-badge)](#)
@@ -33,3 +25,16 @@
 [![](https://img.shields.io/badge/-python-9cf?style=for-the-badge&logo=python)](#)
 [![](https://img.shields.io/badge/-bash-9cf?style=for-the-badge&logo=GNU%20bash)](#)
 [![](https://img.shields.io/badge/-docker-9cf?style=for-the-badge&logo=docker)](#)
+
+### Why am I on GitHub
+
+- I find useful to store my code in repositories, to share my projects between my devices.
+- I really like the idea to secure my code in case one of my devices breaks up.
+- I want to show what I did in my University period.
+- Automated builds with Docker Hub and GitHub are awesome.
+- Versioning Control is awesome, and I like the idea of knowing how it works. My future will be with a team, which uses Versioning Control (I hope...).
+
+### What I'm working on right now
+
+I'm building a web application for an aircraft RC models factory in Vietnam. This factory is called VQModel, and it is managed by a piece of my family.
+It's not finished yet, but you can see the latest demo [here](http://vqmodel.com/angular).
