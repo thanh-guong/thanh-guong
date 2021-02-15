@@ -34,7 +34,8 @@
 - Automated builds with Docker Hub and GitHub are awesome.
 - Versioning Control is awesome, and I like the idea of knowing how it works. My future will be with a team, which uses Versioning Control (I hope...).
 
-### What I'm working on right now
+### VQModel
 
 I'm building a web application for an aircraft RC models factory in Vietnam. This factory is called VQModel, and it is managed by a piece of my family.
-It's not finished yet, but you can see the latest demo [here](http://vqmodel.com/angular).
+
+First release has not been launched yet yet, but here you can see the latest [VQModel demo](http://vqmodel.com/angular).
