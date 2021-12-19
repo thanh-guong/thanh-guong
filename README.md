@@ -39,3 +39,8 @@
 I'm building a web application for an aircraft RC models factory in Vietnam. This factory is called VQModel, and it is managed by a piece of my family.
 
 First release has not been launched yet yet, but here you can see the latest [VQModel demo](http://vqmodel.com/angular).
+
+### Ref
+
+[![linkedin](https://img.shields.io/badge/-linkedin-lightgrey?style=for-the-badge)](https://www.linkedin.com/in/marte-valerio-f-a8a33315a)
+[![stackexchange](https://img.shields.io/badge/-stackexchange-lightgrey?style=for-the-badge)](https://stackexchange.com/users/20414037/marte-valerio-falcone?tab=accounts)
