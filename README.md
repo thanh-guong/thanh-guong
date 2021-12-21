@@ -42,5 +42,5 @@ First release has not been launched yet yet, but here you can see the latest [VQ
 
 ### Ref
 
-[![linkedin](https://img.shields.io/badge/-linkedin-lightgrey?style=for-the-badge)](https://www.linkedin.com/in/marte-valerio-f-a8a33315a)
+[![linkedin](https://img.shields.io/badge/-linkedin-lightgrey?style=for-the-badge)](https://www.linkedin.com/in/marte-valerio-falcone)
 [![stackexchange](https://img.shields.io/badge/-stackexchange-lightgrey?style=for-the-badge)](https://stackexchange.com/users/20414037/marte-valerio-falcone?tab=accounts)
