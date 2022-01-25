@@ -8,7 +8,7 @@
 
 :mortar_board: First level degree: 2018
 
-:mortar_board: Second level degree: 85% loading... 
+:mortar_board: Second level degree: 90% loading... 
 
 ### Professional competences
 
