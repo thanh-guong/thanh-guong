@@ -2,9 +2,9 @@
 
 👋 Name: Marte Valerio
 
-:book: Profession: Student
+:book: Profession: Software Developer
 
-:round_pushpin: Where: Roma Tre University
+:round_pushpin: Where: Coming soon...
 
 :mortar_board: First level degree: dec 2018
 
