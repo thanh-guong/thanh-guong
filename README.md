@@ -6,9 +6,9 @@
 
 :round_pushpin: Where: Roma Tre University
 
-:mortar_board: First level degree: 2018
+:mortar_board: First level degree: dec 2018
 
-:mortar_board: Second level degree: 90% loading... 
+:mortar_board: Second level degree: mar 2022
 
 ### Professional competences
 
