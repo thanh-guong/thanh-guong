@@ -4,7 +4,7 @@
 
 :book: Profession: Software Developer
 
-:round_pushpin: Where: Coming soon...
+:round_pushpin: Where: Atos
 
 :mortar_board: First level degree: dec 2018
 
