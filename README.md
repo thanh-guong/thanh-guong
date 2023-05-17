@@ -20,14 +20,14 @@
 
 ### Main technologies
 
-[![](https://img.shields.io/badge/-angular-9cf?style=for-the-badge&logo=angular)](#)
-[![](https://img.shields.io/badge/-django-9cf?style=for-the-badge&logo=django)](#)
-[![](https://img.shields.io/badge/-bash-9cf?style=for-the-badge&logo=GNU%20bash)](#)
-[![](https://img.shields.io/badge/-docker-9cf?style=for-the-badge&logo=docker)](#)
-[![](https://img.shields.io/badge/-python-9cf?style=for-the-badge&logo=python)](#)
-[![](https://img.shields.io/badge/-java-9cf?style=for-the-badge&)](#)
+[![](https://img.shields.io/badge/-angular-9cf?style=for-the-badge&logo=angular&labelColor=555)](#)
+[![](https://img.shields.io/badge/-django-9cf?style=for-the-badge&logo=django&labelColor=555)](#)
+[![](https://img.shields.io/badge/-bash-9cf?style=for-the-badge&logo=GNU%20bash&labelColor=555)](#)
+[![](https://img.shields.io/badge/-docker-9cf?style=for-the-badge&logo=docker&labelColor=555)](#)
+[![](https://img.shields.io/badge/-python-9cf?style=for-the-badge&logo=python&labelColor=555)](#)
+[![](https://img.shields.io/badge/-java-9cf?style=for-the-badge&labelColor=555)](#)
 
 ### Ref
 
-[![linkedin](https://img.shields.io/badge/-linkedin-lightgrey?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/marte-valerio-falcone)
-[![stackexchange](https://img.shields.io/badge/-stackexchange-lightgrey?style=for-the-badge&logo=Stack%20Exchange)](https://stackexchange.com/users/20414037/marte-valerio-falcone?tab=accounts)
+[![linkedin](https://img.shields.io/badge/-linkedin-9cf?style=for-the-badge&logo=LinkedIn&labelColor=555)](https://www.linkedin.com/in/marte-valerio-falcone)
+[![stackexchange](https://img.shields.io/badge/-stackexchange-9cf?style=for-the-badge&logo=Stack%20Exchange&labelColor=555)](https://stackexchange.com/users/20414037/marte-valerio-falcone?tab=accounts)
