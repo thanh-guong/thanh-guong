@@ -8,7 +8,7 @@
 
 :book: Profession: Software Developer
 
-:round_pushpin: Where: Lutech Advanced Solutions
+:round_pushpin: Where: Atlas Reply
 
 ### Professional competences
 
