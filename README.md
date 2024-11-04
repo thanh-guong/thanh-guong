@@ -8,7 +8,7 @@
 
 :book: Profession: Software Developer
 
-:round_pushpin: Where: Atlas Reply
+:round_pushpin: Where: Reply Atlas
 
 ### Professional competences
 
